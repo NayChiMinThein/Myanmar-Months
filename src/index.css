@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.burmese{
+    font-family: 'Noto Sans Myanmar', sans-serif;
+}
+
+.english{
+    font-family: 'Noto Sans', sans-serif;
+}
